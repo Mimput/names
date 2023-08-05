@@ -16,7 +16,7 @@ setup(
     name=names.__title__,
     version=names.__version__,
     author=names.__author__,
-    url="https://github.com/treyhunner/names",
+    url="https://github.com/Mimput/names2",
     description="Generate random names",
     long_description='\n\n'.join((
         readme,
